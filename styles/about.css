@@ -1,0 +1,19 @@
+.layout {
+	width:65%;
+	position:relative;
+	min-height:470px;
+	top: 15px;
+	margin:auto;
+	
+}
+
+.about-img {
+	position:relative;
+	float:left;
+}
+
+.about-text {
+	position:relative;
+	float:left;
+	color:white;
+}
